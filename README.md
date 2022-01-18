@@ -1,4 +1,4 @@
-# Vie + Cypress + MSW + react-query Demo
+# Vite + Cypress + MSW + react-query Demo
 
 Example of using Cypress with Vite, MSW and `react-query`. Uses the `appReady`
 pattern to signal to Cypress when the MSW server has started.
